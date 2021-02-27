@@ -1,6 +1,6 @@
 # Move It with Next 💜
 
-##Technologies 💡 
+## Technologies 💡 
     - Typescript
     - React
     - Next.js
